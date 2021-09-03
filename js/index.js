@@ -2,7 +2,7 @@
 
 const hacker1 = "Auriane"
 // 1.2
-console.log(`the driver's name is ${hacker1}`)
+console.log(`The driver's name is ${hacker1}`)
 
 // 1.3
 const hacker2 = "Léa"
